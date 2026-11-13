@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.0/DEYAS-HUB-0.7.0-arm64.apk",
-  "sha256": "f765bbd41f25ac17a077a4cacd7172fb373a1d1df0e4e3fac836f633198c54e7",
-  "notes": "Νέα πλοήγηση 4 καρτελών, Μητρώο φυσικών αντλιών και επιλογή αντλίας από την αποθήκη, οργανωμένες Ρυθμίσεις, ιστορικό εκδόσεων, προτάσεις και μηνύματα διαχειριστή. Απαιτείται δημοσίευση ενημερωμένων κανόνων Firestore για τις νέες συλλογές."
+  "versionCode": 26,
+  "versionName": "0.7.1",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.1/DEYAS-HUB-0.7.1-arm64.apk",
+  "sha256": "068a82a1481c12c0f0d0c405a02c2f1c541136876bb983fe1323cb9602a4bc2e",
+  "notes": "Νέα πλήρης σελίδα καταχώρισης φυσικής αντλίας, προαιρετικά στοιχεία και αυτόματος κωδικός. Προστέθηκαν ρεύμα (A), στροφές (rpm), Hmin/Hmax, παροχή Q και DN. Απαιτείται ενημέρωση των Firestore rules για την αποθήκευση των νέων πεδίων."
 }
