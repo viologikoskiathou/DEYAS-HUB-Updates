@@ -1,0 +1,48 @@
+name: Publish initial DEYAS HUB APK 0.6.5
+on:
+  push:
+    paths:
+      - '.github/workflows/bootstrap-release.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download signed distribution archive
+        env:
+          ARTIFACT_URL: 'https://sdmntprnortheu.oaiusercontent.com/files/00000000-2df8-81f4-8869-badf6d22664b/raw?se=2026-11-13T11%3A38%3A00Z&sp=r&sv=2026-06-06&sr=b&scid=3ddb88a1-c4eb-5eb3-8597-69e560268e74&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T04%3A05%3A02Z&ske=2026-11-14T04%3A05%3A02Z&sks=b&skv=2026-06-06&sig=z%2BsZpGjDKmajN2EdTbAJG60nHL5JYDrJcH6vBWF1rdc%3D'
+        run: |
+          curl --fail --location --retry 3 --retry-delay 3 --max-time 180 "$ARTIFACT_URL" -o /tmp/release.zip
+          test "$(stat -c%s /tmp/release.zip)" -gt 10000000
+          unzip -t /tmp/release.zip
+          mkdir -p /tmp/deyas
+          unzip -j /tmp/release.zip '*.apk' -d /tmp/deyas
+          test "$(find /tmp/deyas -name '*.apk' -type f | wc -l)" -eq 1
+          mv /tmp/deyas/*.apk ./DEYAS-HUB-0.6.5-arm64.apk
+          test "$(stat -c%s DEYAS-HUB-0.6.5-arm64.apk)" -gt 40000000
+
+      - name: Publish GitHub Release and public update manifest
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create v0.6.5 ./DEYAS-HUB-0.6.5-arm64.apk --repo "$GITHUB_REPOSITORY" --title "DEYAS HUB 0.6.5" --notes "Android arm64 test release. APK updates via GitHub Releases; same QA signing identity as previous builds." --latest
+          python3 - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          f=Path("DEYAS-HUB-0.6.5-arm64.apk")
+          digest=hashlib.file_digest(f.open("rb"),"sha256").hexdigest()
+          obj={"versionCode":20,"versionName":"0.6.5","apkUrl":"https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.6.5/DEYAS-HUB-0.6.5-arm64.apk","sha256":digest,"notes":"Δυνατότητα ενημερώσεων μέσω GitHub Releases."}
+          Path("latest.json").write_text(json.dumps(obj,ensure_ascii=False,indent=2)+"\n")
+          print("sha256=",digest)
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add latest.json
+          git commit -m "Publish version manifest for 0.6.5 [skip ci]"
+          git push
