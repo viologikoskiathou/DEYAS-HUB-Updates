@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.6.6",
-  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.6.6/DEYAS-HUB-0.6.6-arm64.apk",
-  "sha256": "7b78cb0167c20901eda18d7498e276d5cd0bdca47604df5e45f78e1f26506c7e",
-  "notes": "Αυτόματος έλεγχος ενημερώσεων μέσω δημόσιου GitHub, χωρίς Firebase Storage."
+  "versionCode": 22,
+  "versionName": "0.6.7",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.6.7/DEYAS-HUB-0.6.7-arm64.apk",
+  "sha256": "d20dbab17eab3e90d71f8f49f35b57690eddf965e9eec8118f27a902e1a293b9",
+  "notes": "Διόρθωση λήψης APK στο 100%, χρονικά όρια και χωριστό κουμπί εγκατάστασης."
 }
