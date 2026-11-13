@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.6.7",
-  "fileName": "DEYAS-HUB-0.6.7-arm64.apk",
-  "artifactUrl": "https://sdmntprnortheu.oaiusercontent.com/files/00000000-80e8-81f4-8c35-d679d71a4341/raw?se=2026-11-13T12%3A17%3A09Z&sp=r&sv=2026-06-06&sr=b&scid=07a17054-b793-5d39-bbfd-3457e48fd3b4&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-13T04%3A37%3A06Z&ske=2026-11-14T04%3A37%3A06Z&sks=b&skv=2026-06-06&sig=AxVwwUTQ5lbUlZOIYkFGVb0yy56f9KZ5%2BXOEc7RdVpI%3D",
-  "notes": "Διόρθωση λήψης APK στο 100%, χρονικά όρια και χωριστό κουμπί εγκατάστασης."
+  "versionCode": 23,
+  "versionName": "0.6.8",
+  "fileName": "DEYAS-HUB-0.6.8-arm64.apk",
+  "artifactUrl": "https://sdmntpreastus2.oaiusercontent.com/files/00000000-7074-81f6-8264-359f1c45f004/raw?se=2026-11-13T12%3A36%3A51Z&sp=r&sv=2026-06-06&sr=b&scid=ef95e0c9-3ca8-5c7a-b19e-27ef4165c254&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-12T23%3A14%3A12Z&ske=2026-11-13T23%3A14%3A12Z&sks=b&skv=2026-06-06&sig=L4WUi720d2r1DZR8FE0v0Piq3INkeKaCnnEqKijdtEs%3D",
+  "notes": "Δοκιμαστική ενημέρωση — μόνο αλλαγή αριθμού έκδοσης (χωρίς αλλαγές λειτουργιών)."
 }
