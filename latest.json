@@ -1,0 +1,7 @@
+{
+  "versionCode": 20,
+  "versionName": "0.6.5",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.6.5/DEYAS-HUB-0.6.5-arm64.apk",
+  "sha256": "53bff1902c4ea187a6ebaa16bdf810252037032e961cfe19ca61d77d3d374680",
+  "notes": "Δυνατότητα ενημερώσεων μέσω GitHub Releases."
+}
