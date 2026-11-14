@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.7.2",
-  "fileName": "DEYAS-HUB-0.7.2-arm64.apk",
-  "artifactUrl": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-b94c-820a-b01d-9f39690c0971/raw?se=2026-11-14T11%3A06%3A04Z&sp=r&sv=2026-06-06&sr=b&scid=9ea70d2e-a3c7-591c-9129-e04776e1ee35&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&sks=b&skv=2026-06-06&skt=2026-11-14T09%3A18%3A04Z&ske=2026-11-15T09%3A18%3A04Z&sig=e9W/3T5Zex0eZqqbY/IzEH3QnSfYbJaHRJvQKjD8hD0%3D",
-  "notes": "Συμβατά αντλιοστάσια ανά φυσική αντλία: επιλογή πολλών αντλιοστασίων, ένδειξη άγνωστης συμβατότητας, φιλτράρισμα διαθέσιμων αντλιών κατά τοποθεσία και έλεγχος πριν από τοποθέτηση ή αντικατάσταση. Απαιτείται ενημέρωση Firestore rules."
+  "versionCode": 28,
+  "versionName": "0.7.3",
+  "fileName": "DEYAS-HUB-0.7.3-arm64.apk",
+  "artifactUrl": "https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-6d48-8210-8861-6e2c1da56fab/raw?se=2026-11-14T14%3A59%3A34Z&sp=r&sv=2026-06-06&sr=b&scid=cf7d19ec-85ec-5dd4-92b2-a37fb971ecc6&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&sks=b&skv=2026-06-06&skt=2026-11-14T05%3A49%3A15Z&ske=2026-11-15T05%3A49%3A15Z&sig=nri/HnHOBxv6JecyjUQdvgnr8UnhXLyxJzz23Tz%2Be4A%3D",
+  "notes": "Οπτική αναβάθμιση Ocean Pro: νέα αρχική με ζωντανές μετρήσεις, τεχνικά εικονίδια, ανανεωμένες κάρτες, πλοήγηση, ρυθμίσεις, λίστες αντλιοστασίων, βλάβες και μητρώο αντλιών. Βελτιώσεις γραφικών, αντίθεσης και ειδοποιήσεων."
 }
