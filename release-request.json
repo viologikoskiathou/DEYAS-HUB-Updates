@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.7.7",
-  "fileName": "DEYAS-HUB-0.7.7-arm64.apk",
-  "artifactUrl": "https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-7abc-8210-a751-4fc2bebca368/raw?se=2026-11-14T19%3A25%3A54Z&sp=r&sv=2026-06-06&sr=b&scid=d5bf921a-370c-5c3a-b163-99febc763f27&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-14T09%3A18%3A13Z&ske=2026-11-15T09%3A18%3A13Z&sks=b&skv=2026-06-06&sig=agOlrxsbe%2BP4IgjBK2wmk71oHyg6kwcOclp3Yhbcc9s%3D",
-  "notes": "DEYAS HUB 0.7.7 Ocean Pro: έξι διορθώσεις αρχικής οθόνης — καθαρή ενσωματωμένη φωτογραφία της Σκιάθου 1200×540, ελαφρύτερα φωτογραφικά overlays, νέο διανυσματικό λογότυπο σταγόνας/κύματος, ανασχεδιασμένη κάρτα ημερήσιου ελέγχου με μεγάλη εικονογράφηση αντλίας, διαχωριστικό, progress και φωτεινό κουμπί έναρξης γύρας, φωτεινότερα KPI/κάρτες, βελτίωση αποστάσεων και τυπογραφίας, ανταποκρινόμενο πλέγμα 4 δεικτών και 8 γρήγορων ενεργειών. Διατηρούνται λειτουργίες και δεδομένα Firebase."
+  "versionCode": 33,
+  "versionName": "0.7.8",
+  "fileName": "DEYAS-HUB-0.7.8-arm64.apk",
+  "artifactUrl": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-fff0-820a-99c6-9d96ecc00a6d/raw?se=2026-11-14T21%3A38%3A18Z&sp=r&sv=2026-06-06&sr=b&scid=996e55f7-8d5f-5e8b-bbc2-6a68804cee87&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-14T07%3A30%3A15Z&ske=2026-11-15T07%3A30%3A15Z&sks=b&skv=2026-06-06&sig=oUiFmCUao3ulbPlvoNu135rO%2B71uuZqHcsDNhaWmITM%3D",
+  "notes": "DEYAS HUB 0.7.8 Ocean Pro: νέα φωτεινά τεχνικά εικονίδια και βελτιωμένη κάτω πλοήγηση, ανανεωμένα KPI και οκτώ γρήγορες ενέργειες, μεγάλη κάρτα ημερήσιου ελέγχου με φωτεινό clipboard και gradient κουμπί έναρξης, καλύτερος κυκλικός δείκτης προόδου, πρόσφατες ειδοποιήσεις με πραγματικές ώρες και χρωματική διαφοροποίηση, βελτιωμένη αντίθεση, τυπογραφία, αποστάσεις και προσαρμογή σε μικρές οθόνες. Δεν αλλάζουν δεδομένα ή κανόνες Firebase."
 }
