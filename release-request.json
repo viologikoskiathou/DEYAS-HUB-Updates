@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.7.4",
-  "fileName": "DEYAS-HUB-0.7.4-arm64.apk",
-  "artifactUrl": "https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-2efc-8210-bdb7-f0298acd0ab8/raw?se=2026-11-14T17%3A12%3A56Z&sp=r&sv=2026-06-06&sr=b&scid=7a5c750c-064e-5619-b501-44d6f13d6623&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&sks=b&skv=2026-06-06&skt=2026-11-14T12%3A09%3A12Z&ske=2026-11-15T12%3A09%3A12Z&sig=GyDmGLMeH4%2BKtXWhskPVWJbEN8Ly6dpHiNXUY3JiNqw%3D",
-  "notes": "Ocean Pro 0.7.4: πλήρης ενοποίηση γραφικών σε αρχική, αντλιοστάσια, μετρητές, φυσικές αντλίες, συμβατότητα, βλάβες, εργασίες, στατιστικά, αναφορές, είσοδο και ενημερώσεις. Δυναμικά συνολικά στοιχεία, κυκλική πρόοδος, τελευταίες πραγματικές μετρήσεις, νέες gradient κάρτες/εικονίδια και βελτιωμένες κενές καταστάσεις. Διατηρούνται οι υφιστάμενες λειτουργίες και τα δεδομένα."
+  "versionCode": 30,
+  "versionName": "0.7.5",
+  "fileName": "DEYAS-HUB-0.7.5-arm64.apk",
+  "artifactUrl": "https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-c234-8210-a581-346df4963a8b/raw?se=2026-11-14T18%3A05%3A22Z&sp=r&sv=2026-06-06&sr=b&scid=02f3f425-d867-562e-a8a7-762794ae0ded&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&sks=b&skv=2026-06-06&skt=2026-11-13T19%3A34%3A03Z&ske=2026-11-14T19%3A34%3A03Z&sig=%2BB9DzrKSkZmkxcXnb%2BKV3pCddC1VNSuvhzu39Hdn4IM%3D",
+  "notes": "Ocean Pro 0.7.5: νέα αρχική οθόνη βασισμένη στην εγκεκριμένη εικόνα με ενσωματωμένη φωτογραφία Σκιάθου και εικόνα αντλίας, 6 καρτέλες πλοήγησης, 8 γρήγορες ενέργειες, 4 δείκτες, κυκλική ημερήσια πρόοδο, πρόσφατες πραγματικές υπηρεσιακές ειδοποιήσεις και πρόσβαση σε στατιστικά. Χάρτης και φωνητική καταχώριση εμφανίζονται ως μελλοντικές λειτουργίες."
 }
