@@ -2,6 +2,6 @@
   "versionCode": 34,
   "versionName": "0.7.9",
   "fileName": "DEYAS-HUB-0.7.9-arm64.apk",
-  "artifactUrl": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-58c8-820a-b3dc-b3994e892f50/raw?se=2026-11-14T22%3A40%3A25Z&sp=r&sv=2026-06-06&sr=b&scid=3cee2cd4-9525-5b21-9d1c-663058fa251b&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&sks=b&skv=2026-06-06&skt=2026-11-14T08%3A02%3A06Z&ske=2026-11-15T08%3A02%3A06Z&sks=b&skv=2026-06-06&sig=2dtE%2BjsYqE5nmjEGh5QjFVJtTbb%2BHqBQAxXtc0T06zM%3D",
+  "artifactUrl": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-bbd4-820a-9ab5-181cc6ff419b/raw?se=2026-11-14T22%3A42%3A04Z&sp=r&sv=2026-06-06&sr=b&scid=d57df5dd-da16-5be8-87f1-06da5bb42f56&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-14T06%3A14%3A00Z&ske=2026-11-15T06%3A14%3A00Z&sks=b&skv=2026-06-06&sig=DYioOzX967FhsPuACwHEmeh3PKun5/WAfpnFoXvVg3U%3D",
   "notes": "DEYAS HUB 0.7.9 Ocean Pro: έξι διορθώσεις εμφάνισης. 1) Καθαρά φωτεινά εικονίδια χωρίς ανεπιθύμητες κουκκίδες. 2) Σωστό ύψος και στοίχιση των τεσσάρων KPI ώστε να μη βγαίνουν οι ελληνικές περιγραφές έξω από τις κάρτες. 3) Νέα διάταξη μεγάλης κάρτας ημερήσιου ελέγχου με ανεξάρτητο τίτλο και καλύτερη ισορροπία αντλίας/checklist/κουμπιού. 4) Πιο ομοιόμορφες γρήγορες ενέργειες. 5) Καθαρότερη κάτω μπάρα 6 θέσεων. 6) Βελτιωμένος κύκλος προόδου και οθόνη πρόσφατων ειδοποιήσεων. Χωρίς αλλαγές σε δεδομένα ή κανόνες Firebase."
 }
