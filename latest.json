@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.7.2",
-  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.2/DEYAS-HUB-0.7.2-arm64.apk",
-  "sha256": "c4a0af398c315c9c66effff3980053bbf5c4db93192b19cd261ff515d7bd614e",
-  "notes": "Συμβατά αντλιοστάσια ανά φυσική αντλία: επιλογή πολλών αντλιοστασίων, ένδειξη άγνωστης συμβατότητας, φιλτράρισμα διαθέσιμων αντλιών κατά τοποθεσία και έλεγχος πριν από τοποθέτηση ή αντικατάσταση. Απαιτείται ενημέρωση Firestore rules."
+  "versionCode": 28,
+  "versionName": "0.7.3",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.3/DEYAS-HUB-0.7.3-arm64.apk",
+  "sha256": "bc7892566f1dc387d9caded974c41083d2697df41296b4ca040161298355ed59",
+  "notes": "Οπτική αναβάθμιση Ocean Pro: νέα αρχική με ζωντανές μετρήσεις, τεχνικά εικονίδια, ανανεωμένες κάρτες, πλοήγηση, ρυθμίσεις, λίστες αντλιοστασίων, βλάβες και μητρώο αντλιών. Βελτιώσεις γραφικών, αντίθεσης και ειδοποιήσεων."
 }
