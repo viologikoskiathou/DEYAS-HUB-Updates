@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.7.10",
-  "fileName": "DEYAS-HUB-0.7.10-arm64.apk",
-  "artifactUrl": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-6a0c-820a-8129-affbf9852e5e/raw?se=2026-11-14T23%3A34%3A32Z&sp=r&sv=2026-06-06&sr=b&scid=c9f064fa-08c3-5cd8-b6fc-a3c908ce001d&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-14T06%3A14%3A03Z&ske=2026-11-15T06%3A14%3A03Z&sks=b&skv=2026-06-06&sig=jXSxa%2BSTn9kMTavlkhPkmhI3xPW6oV8qDthPEpSlFNA%3D",
-  "notes": "DEYAS HUB 0.7.10: μαζική εισαγωγή του φωτογραφημένου μητρώου 43 γραμμών από τον λογαριασμό διαχειριστή. Αναγνώριση κατασκευαστή, μοντέλου, σειριακού, kW, A, rpm, Hmax/Hmin, Q, DN όπου είναι σαφή. Καταστάσεις αποθήκη/επισκευή/τοποθετημένη στο παλιό μητρώο, προεπισκόπηση, 33 προεπιλεγμένες και 10 αμφίβολες προς έλεγχο, αποφυγή διπλότυπων, προσεκτική αντιστοίχιση συμβατότητας σε γνωστά αντλιοστάσια. Δεν δημιουργούνται ψευδή συμβάντα τοποθέτησης. Πιο συμπαγείς KPI και γρήγορες ενέργειες στην αρχική. Δεν απαιτούνται αλλαγές κανόνων Firebase."
+  "versionCode": 36,
+  "versionName": "0.7.11",
+  "fileName": "DEYAS-HUB-0.7.11-arm64.apk",
+  "artifactUrl": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-dcf0-820a-b3e3-58b71cbe7836/raw?se=2026-11-15T00%3A15%3A16Z&sp=r&sv=2026-06-06&sr=b&scid=c52db4b9-9d09-5c10-8f43-8ea37e31f880&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-14T18%3A36%3A09Z&ske=2026-11-15T18%3A36%3A09Z&sks=b&skv=2026-06-06&sig=5fYTLhjQTUsO1fst/FaYH4yalN719IjdTELNXy7SxOI%3D",
+  "notes": "DEYAS HUB 0.7.11: νέα διαγραφή φυσικής αντλίας μόνο από διαχειριστή, με επιβεβαίωση και προστασία για εγγραφές που έχουν ιστορικό εγκαταστάσεων/μετακινήσεων ή φωτογραφίες. Κάθε φυσική αντλία αποκτά δική της συλλογή φωτογραφιών σε Firebase Storage, λήψη από κάμερα ή συλλογή, προβολή, διαγραφή φωτογραφίας μόνο από διαχειριστή. Προβολή φωτογραφιών από εγκεκριμένα μέλη. Για ενεργοποίηση απαιτείται δημοσίευση των κανόνων firebase/storage.rules και αλλαγή allow delete: if admin() στο match pumpInventory του Firestore. Λεπτομέρειες στο firebase/PHOTO_SETUP_EL.md."
 }
