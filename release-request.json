@@ -2,6 +2,6 @@
   "versionCode": 37,
   "versionName": "0.7.12",
   "fileName": "DEYAS-HUB-0.7.12-arm64.apk",
-  "artifactUrl": "https://sdmntpritalynorth.oaiusercontent.com/files/00000000-94ec-8246-9e26-d0f083e1603f/raw?se=2026-11-17T06%3A58%3A04Z&sp=r&sv=2026-06-06&sr=b&scid=c3e70984-3a03-5bb1-b41b-faa1f82b149a&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-17T04%3A57%3A22Z&ske=2026-11-18T04%3A57%3A22Z&sks=b&skv=2026-06-06&sig=l1igJHmYVcIXX45BEW7rluzUd53e6sqvTl9DKSVOLR8%3D",
-  "notes": "DEYAS HUB 0.7.12: απλοποιημένη αρχική οθόνη με αφαίρεση της ενότητας Γρήγορες ενέργειες. Παραμένουν η ημερήσια επισκόπηση, ο ημερήσιος έλεγχος, οι τέσσερις δείκτες, οι υπόλοιπες ενότητες και η κάτω μπάρα πλοήγησης."
+  "artifactUrl": "https://sdmntprnortheu.oaiusercontent.com/files/00000000-639c-81f4-9e16-7920ee2f9b3d/raw?se=2026-11-17T07%3A45%3A44Z&sp=r&sv=2026-06-06&sr=b&scid=5be5b5ae-5b93-5879-b20b-27e7eec39f2f&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-17T02%3A30%3A33Z&ske=2026-11-18T02%3A30%3A33Z&sks=b&skv=2026-06-06&sig=rgI0ly0cr7Cy9mOURsCl4gKrb9aUg13Dqlsx/GBNJn8%3D",
+  "notes": "DEYAS HUB 0.7.12: καθαρότερη αρχική οθόνη χωρίς Γρήγορες ενέργειες. Οι τέσσερις κάρτες με τα στοιχεία Αντλιοστασίων, Θέσεων Αντλιών, Εκκρεμών Εργασιών και Ανοιχτών Βλαβών ανοίγουν πλέον τις αντίστοιχες ενότητες."
 }
