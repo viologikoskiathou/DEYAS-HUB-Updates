@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.7.11",
-  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.11/DEYAS-HUB-0.7.11-arm64.apk",
-  "sha256": "0f4b8793d422670f8720c5eb9beb76a7e962457dc526fe8e114c5eb856b2fb11",
-  "notes": "DEYAS HUB 0.7.11: νέα διαγραφή φυσικής αντλίας μόνο από διαχειριστή, με επιβεβαίωση και προστασία για εγγραφές που έχουν ιστορικό εγκαταστάσεων/μετακινήσεων ή φωτογραφίες. Κάθε φυσική αντλία αποκτά δική της συλλογή φωτογραφιών σε Firebase Storage, λήψη από κάμερα ή συλλογή, προβολή, διαγραφή φωτογραφίας μόνο από διαχειριστή. Προβολή φωτογραφιών από εγκεκριμένα μέλη. Για ενεργοποίηση απαιτείται δημοσίευση των κανόνων firebase/storage.rules και αλλαγή allow delete: if admin() στο match pumpInventory του Firestore. Λεπτομέρειες στο firebase/PHOTO_SETUP_EL.md."
+  "versionCode": 37,
+  "versionName": "0.7.12",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.12/DEYAS-HUB-0.7.12-arm64.apk",
+  "sha256": "01add8a77b90757eaeb6a782eead437f236ab71a8fe6dac04b8570c5fb53a854",
+  "notes": "DEYAS HUB 0.7.12: απλοποιημένη αρχική οθόνη με αφαίρεση της ενότητας Γρήγορες ενέργειες. Παραμένουν η ημερήσια επισκόπηση, ο ημερήσιος έλεγχος, οι τέσσερις δείκτες, οι υπόλοιπες ενότητες και η κάτω μπάρα πλοήγησης."
 }
