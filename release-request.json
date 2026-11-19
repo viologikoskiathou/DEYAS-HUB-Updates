@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.7.17",
-  "fileName": "DEYAS-HUB-0.7.17-arm64.apk",
-  "artifactUrl": "https://sdmntprnortheu.oaiusercontent.com/files/00000000-be60-81f4-ba28-dc0a0f9fc3fa/raw?se=2026-11-19T19%3A21%3A59Z&sp=r&sv=2026-06-06&sr=b&scid=648fc2c4-6143-5d5e-b50b-16f9e92b20bf&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-18T20%3A32%3A18Z&ske=2026-11-19T20%3A32%3A18Z&sks=b&skv=2026-06-06&sig=RWOP15xzjWJHQBsuylKZkIoaqIB9if%2Bz3JGR6DHF31Y%3D",
-  "notes": "DEYAS HUB 0.7.17: Διορθώθηκε ο μηχανισμός εγκατάστασης APK με εγγενές Android FileProvider/MethodChannel, αντί του open_filex που εμφάνιζε ClassNotFoundException. Διατηρήθηκαν η επαλήθευση SHA-256, η υπογραφή και η εναλλακτική λήψη μέσω browser."
+  "versionCode": 43,
+  "versionName": "0.7.18",
+  "fileName": "DEYAS-HUB-0.7.18-arm64.apk",
+  "artifactUrl": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-4dcc-820a-8e0b-e21d7a056ca7/raw?se=2026-11-19T22%3A08%3A04Z&sp=r&sv=2026-06-06&sr=b&scid=087382b6-f2cf-543d-b105-55c7a634604e&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-19T19%3A43%3A14Z&ske=2026-11-20T19%3A43%3A14Z&sks=b&skv=2026-06-06&sig=vqLYwJq02NM4%2B/JxMwtYrYbJJXfXwheB3jSmRhJLeQQ%3D",
+  "notes": "DEYAS HUB 0.7.18: Νέα σύνοψη αντλιοστασίου και χρωματιστές θέσεις αντλιών, ιστορικό μετρήσεων σε αναπτυσσόμενο πλακίδιο, διαγραφή με αιτιολογία μόνο για διαχειριστή (απαιτεί επικαιροποιημένους Firestore rules), προβολή φωτογραφιών Drive πλήρους οθόνης με zoom/swipe και ορισμός φωτογραφίας εξωφύλλου. Οι υπόλοιπες αλλαγές του ανασχεδιασμού θα ακολουθήσουν."
 }
