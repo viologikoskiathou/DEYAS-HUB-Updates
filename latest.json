@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.7.13",
-  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.13/DEYAS-HUB-0.7.13-arm64.apk",
-  "sha256": "8bd436defc3924423db6a6617f62cf8ab32dce57d6bda8bda29d6d9d085ddb4e",
-  "notes": "DEYAS HUB 0.7.13: Διορθώθηκε η αρχική οθόνη. Τα τέσσερα πλακίδια στατιστικών είναι πλέον πατήσιμα και ανοίγουν Αντλιοστάσια ή Βλάβες & εργασίες. Διατηρείται η απλοποιημένη αρχική χωρίς Γρήγορες ενέργειες."
+  "versionCode": 39,
+  "versionName": "0.7.14",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.14/DEYAS-HUB-0.7.14-arm64.apk",
+  "sha256": "c0b091ccef8f94c8458b8d8c38bedd3c4326f22aec53a80d0ecc7192d768c313",
+  "notes": "DEYAS HUB 0.7.14: Νέο φωτογραφικό αρχείο ανά αντλιοστάσιο αποκλειστικά για διαχειριστή. Υποστήριξη ιδιωτικού Google Drive, φακέλων και υποφακέλων, λήψης και επιλογής πολλών φωτογραφιών, προβολής, μετονομασίας, μετακίνησης και διαγραφής. Για την πρώτη σύνδεση απαιτείται εξουσιοδότηση του Google λογαριασμού διαχειριστή."
 }
