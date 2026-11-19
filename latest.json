@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "0.7.16",
-  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.16/DEYAS-HUB-0.7.16-arm64.apk",
-  "sha256": "b01746d9e8bcfe74864ca9287c49e79abf992a2ea6bc3446199acc8bb3dde75e",
-  "notes": "DEYAS HUB 0.7.16: Εναλλακτική λήψη APK μέσω browser όταν αποτυγχάνει ο εγκαταστάτης Android. Διατηρείται η υπάρχουσα ταυτότητα υπογραφής."
+  "versionCode": 42,
+  "versionName": "0.7.17",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.17/DEYAS-HUB-0.7.17-arm64.apk",
+  "sha256": "b5b1c3bdce668e892af6b8105fedf9b1e5265d08edba965fd4b348fd986a6ebd",
+  "notes": "DEYAS HUB 0.7.17: Διορθώθηκε ο μηχανισμός εγκατάστασης APK με εγγενές Android FileProvider/MethodChannel, αντί του open_filex που εμφάνιζε ClassNotFoundException. Διατηρήθηκαν η επαλήθευση SHA-256, η υπογραφή και η εναλλακτική λήψη μέσω browser."
 }
