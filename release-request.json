@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.7.13",
-  "fileName": "DEYAS-HUB-0.7.13-arm64.apk",
-  "artifactUrl": "https://sdmntprukwest.oaiusercontent.com/files/00000000-551c-8243-a3a8-23534b9397c7/raw?se=2026-11-17T08%3A24%3A45Z&sp=r&sv=2026-06-06&sr=b&scid=5d63cca9-bda2-590d-bb06-f1623c5cb2e1&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-17T05%3A32%3A23Z&ske=2026-11-18T05%3A32%3A23Z&sks=b&skv=2026-06-06&sig=CYCKWQyDjdt6SIPrsiKkdi5L1l7R4MY6Y%2BHBlWlQ34k%3D",
-  "notes": "DEYAS HUB 0.7.13: Διορθώθηκε η αρχική οθόνη. Τα τέσσερα πλακίδια στατιστικών είναι πλέον πατήσιμα και ανοίγουν Αντλιοστάσια ή Βλάβες & εργασίες. Διατηρείται η απλοποιημένη αρχική χωρίς Γρήγορες ενέργειες."
+  "versionCode": 39,
+  "versionName": "0.7.14",
+  "fileName": "DEYAS-HUB-0.7.14-arm64.apk",
+  "artifactUrl": "https://sdmntpritalynorth.oaiusercontent.com/files/00000000-8830-8246-912a-abd21838f64e/raw?se=2026-11-19T10%3A05%3A48Z&sp=r&sv=2026-06-06&sr=b&scid=4dcd8f3f-8f96-5b24-b695-079aedb7bf19&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-19T03%3A32%3A24Z&ske=2026-11-20T03%3A32%3A24Z&sks=b&skv=2026-06-06&sig=EwNgHicUDW/N0nyZnikoUOlKJaJZyx8UD33cgIcLdA0%3D",
+  "notes": "DEYAS HUB 0.7.14: Νέο φωτογραφικό αρχείο ανά αντλιοστάσιο αποκλειστικά για διαχειριστή. Υποστήριξη ιδιωτικού Google Drive, φακέλων και υποφακέλων, λήψης και επιλογής πολλών φωτογραφιών, προβολής, μετονομασίας, μετακίνησης και διαγραφής. Για την πρώτη σύνδεση απαιτείται εξουσιοδότηση του Google λογαριασμού διαχειριστή."
 }
