@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.7.17",
-  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.17/DEYAS-HUB-0.7.17-arm64.apk",
-  "sha256": "b5b1c3bdce668e892af6b8105fedf9b1e5265d08edba965fd4b348fd986a6ebd",
-  "notes": "DEYAS HUB 0.7.17: Διορθώθηκε ο μηχανισμός εγκατάστασης APK με εγγενές Android FileProvider/MethodChannel, αντί του open_filex που εμφάνιζε ClassNotFoundException. Διατηρήθηκαν η επαλήθευση SHA-256, η υπογραφή και η εναλλακτική λήψη μέσω browser."
+  "versionCode": 43,
+  "versionName": "0.7.18",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.18/DEYAS-HUB-0.7.18-arm64.apk",
+  "sha256": "01a185a613736881154d80c4fb8b568f8dbaaa5e87f04b03ab12e6c955a77251",
+  "notes": "DEYAS HUB 0.7.18: Νέα σύνοψη αντλιοστασίου και χρωματιστές θέσεις αντλιών, ιστορικό μετρήσεων σε αναπτυσσόμενο πλακίδιο, διαγραφή με αιτιολογία μόνο για διαχειριστή (απαιτεί επικαιροποιημένους Firestore rules), προβολή φωτογραφιών Drive πλήρους οθόνης με zoom/swipe και ορισμός φωτογραφίας εξωφύλλου. Οι υπόλοιπες αλλαγές του ανασχεδιασμού θα ακολουθήσουν."
 }
