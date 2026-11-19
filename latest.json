@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.7.15",
-  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.15/DEYAS-HUB-0.7.15-arm64.apk",
-  "sha256": "7b7af576f592d4085995033db5ffd4fc4081f57b23d8a015e942e969e35cda6e",
-  "notes": "DEYAS HUB 0.7.15: Νέο εικονίδιο εφαρμογής και νέο σήμα στην αρχική/σύνδεση, σε μπλε-τιρκουάζ χρώματα. Φωτογραφίες Google Drive ως μικρογραφίες. Δήλωση κατάστασης θέσης αντλίας (κενή/σε λειτουργία/εκτός λειτουργίας) με ιστορικό. Η αποθήκευση νέας κατάστασης θέσης απαιτεί δημοσίευση των ενημερωμένων Firestore Rules στο Firebase."
+  "versionCode": 41,
+  "versionName": "0.7.16",
+  "apkUrl": "https://github.com/viologikoskiathou/DEYAS-HUB-Updates/releases/download/v0.7.16/DEYAS-HUB-0.7.16-arm64.apk",
+  "sha256": "b01746d9e8bcfe74864ca9287c49e79abf992a2ea6bc3446199acc8bb3dde75e",
+  "notes": "DEYAS HUB 0.7.16: Εναλλακτική λήψη APK μέσω browser όταν αποτυγχάνει ο εγκαταστάτης Android. Διατηρείται η υπάρχουσα ταυτότητα υπογραφής."
 }
