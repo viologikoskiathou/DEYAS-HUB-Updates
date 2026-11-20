@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "0.7.18",
-  "fileName": "DEYAS-HUB-0.7.18-arm64.apk",
-  "artifactUrl": "https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-4dcc-820a-8e0b-e21d7a056ca7/raw?se=2026-11-19T22%3A08%3A04Z&sp=r&sv=2026-06-06&sr=b&scid=087382b6-f2cf-543d-b105-55c7a634604e&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-19T19%3A43%3A14Z&ske=2026-11-20T19%3A43%3A14Z&sks=b&skv=2026-06-06&sig=vqLYwJq02NM4%2B/JxMwtYrYbJJXfXwheB3jSmRhJLeQQ%3D",
-  "notes": "DEYAS HUB 0.7.18: Νέα σύνοψη αντλιοστασίου και χρωματιστές θέσεις αντλιών, ιστορικό μετρήσεων σε αναπτυσσόμενο πλακίδιο, διαγραφή με αιτιολογία μόνο για διαχειριστή (απαιτεί επικαιροποιημένους Firestore rules), προβολή φωτογραφιών Drive πλήρους οθόνης με zoom/swipe και ορισμός φωτογραφίας εξωφύλλου. Οι υπόλοιπες αλλαγές του ανασχεδιασμού θα ακολουθήσουν."
+  "versionCode": 45,
+  "versionName": "0.7.20",
+  "fileName": "DEYAS-HUB-0.7.20-arm64.apk",
+  "artifactUrl": "https://sdmntprdenmarkeast.oaiusercontent.com/files/00000000-a2b0-8210-9f92-15338c384bfb/raw?se=2026-11-20T07%3A01%3A42Z&sp=r&sv=2026-06-06&sr=b&scid=307dcacc-1944-5f2f-a050-fcd7e096eb7c&skoid=061609b8-1cdb-4a5b-9e68-c7ab9a523a8f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-20T04%3A10%3A38Z&ske=2026-11-21T04%3A10%3A38Z&sks=b&skv=2026-06-06&sig=kX7VOLvQWs5x/0cq74phb61/i7SdCxw29/06F5i2l60%3D",
+  "notes": "DEYAS HUB 0.7.20: Νέα σελίδα αντλιοστασίου με εξώφυλλο, καρτέλες Μετρήσεις/Εξοπλισμός/Φωτογραφίες/Ιστορικό/Εργασίες, μία κάρτα ανά θέση με φυσική αντλία, ώρες και κατάσταση. Δήλωση Βλάβης μέσα από τη θέση (απαιτούνται ενημερωμένοι κανόνες Firestore). Αναζήτηση ιστορικού, μέσος όρος 10 ημερών, οργανωμένοι φάκελοι φωτογραφιών ανά θέση και κατηγορία στο ιδιωτικό Drive."
 }
